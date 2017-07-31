@@ -12,3 +12,5 @@ List of exercises:
 7. K-Means Clustering and Principal Component Analysis
 8. Incomplete
 9. Incomplete
+
+I have added an octave reference sheet for a quick look at octave functions.
